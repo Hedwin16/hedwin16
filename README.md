@@ -2,9 +2,9 @@ Hi 👋 My name is Hedwin Díaz
 ============================
 I'm a Systems Engineer & Software Developer
 -----------------------------------------------------------
-I've been learning to code for 6 years.
+I've been working as a Software Developer since 2021 and learning code for more than 5 years.
 * 🌍  I'm based in Venezuela
-* 🖥️  See my portfolio at [Hedwin Website.](http://hedwin16.github.io) (Under Development)
+* 🖥️  See my portfolio at [Hedwin Website.](https://hdsprod.com) (Under Construction)
 * ✉️  You can contact me at [ds.hedwin@gmail.com](mailto:ds.hedwin@gmail.com)
 * 🧠  I'm learning and working with C#, .NET, UI & UX, LINQ 
 * 🤝  I'm open to collaborating on Interesting Projects
